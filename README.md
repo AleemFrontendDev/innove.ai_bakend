@@ -1,11 +1,11 @@
-# Healthtech Firebase Backend
+# Innove Firebase Backend
 
-A Google Cloud-native backend for a healthtech mobile application using Firebase Functions with Node.js/TypeScript.
+A Google Cloud-native backend for a innovetech application using Firebase Functions with Node.js/TypeScript.
 
 ## Features
 
-- **Health Metrics API**: Store and retrieve user health metrics
-- **AI-Powered Insights**: Generate health insights using Google Gemini AI
+- **Innove Metrics API**: Store and retrieve user Innove metrics
+- **AI-Powered Insights**: Generate Innove insights using Google Gemini AI
 - **Push Notifications**: Send targeted notifications to users
 - **File Upload**: Handle voice recordings and images via Google Cloud Storage
 - **Authentication**: Secure endpoints with Firebase Auth
@@ -72,8 +72,8 @@ See `.env.example` for required environment variables.
 
 ## API Endpoints
 
-- `POST /metrics` - Store health metrics
-- `GET /summary` - Generate AI health insights
+- `POST /metrics` - Store Innove metrics
+- `GET /summary` - Generate AI Innove.ai insights
 - `POST /notify` - Send push notifications
 - `POST /upload` - Upload files to Cloud Storage
 
@@ -89,4 +89,4 @@ npm run test:coverage # Coverage report
 
 ## License
 
-Private - Healthtech Application Backend
+Private - Innove Application Backend
