@@ -1,6 +1,6 @@
 # Innove Firebase Backend
 
-A Google Cloud-native backend for a innovetech application using Firebase Functions with Node.js/TypeScript.
+A Google Cloud-native backend for a innove using Firebase Functions with Node.js/TypeScript.
 
 ## Features
 
